@@ -1,0 +1,11 @@
+id: 3f6f1acf60ed455da3f44feb50363d73
+annotation_type: index
+revision: '00001'
+annotations:
+  face76a57b444ae2b4a6b2fccde77178:
+    parts: {}
+    span:
+    - vol: 60
+      start: 0
+      end: 238483
+    work_id: D3867
