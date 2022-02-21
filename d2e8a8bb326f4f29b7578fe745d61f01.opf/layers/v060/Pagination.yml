@@ -1141,74 +1141,74 @@ annotations:
     reference: ''
     span:
       start: 216247
-      end: 217237
+      end: 217444
     note_ref: 2624a7c9f05e418c918891da143c6816
   ce8c22fa65344005a489691b3ec14c2e:
     imgnum: 1794
     reference: ''
     span:
-      start: 217239
-      end: 219157
+      start: 217446
+      end: 219364
   75c1617198844b3caaf6f005b594f556:
     imgnum: 1795
     reference: ''
     span:
-      start: 219159
-      end: 220983
+      start: 219366
+      end: 221190
   a8336e8810364112af322d913e4db87d:
     imgnum: 1796
     reference: ''
     span:
-      start: 220985
-      end: 222974
+      start: 221192
+      end: 223181
   b7009c1b49f94b8da031167dd244acb0:
     imgnum: 1797
     reference: ''
     span:
-      start: 222976
-      end: 224809
+      start: 223183
+      end: 225016
   e8e7758b574a4fd2b82550b7f78f0be7:
     imgnum: 1798
     reference: ''
     span:
-      start: 224811
-      end: 226600
+      start: 225018
+      end: 226807
   fb8e2703653e45e1aee98d384dcc5184:
     imgnum: 1799
     reference: ''
     span:
-      start: 226602
-      end: 228298
+      start: 226809
+      end: 228505
   2e61fa6d35cd43e3ae17802a8442d245:
     imgnum: 1800
     reference: ''
     span:
-      start: 228300
-      end: 229998
+      start: 228507
+      end: 230205
   375adaec4ed54300b93b718d3234903e:
     imgnum: 1801
     reference: ''
     span:
-      start: 230000
-      end: 231904
+      start: 230207
+      end: 232111
   115cbc59412045f783e91ad6115c151f:
     imgnum: 1802
     reference: ''
     span:
-      start: 231906
-      end: 233702
+      start: 232113
+      end: 233909
   d4ebf1f40e6e456ab117795126c0b2f6:
     imgnum: 1803
     reference: ''
     span:
-      start: 233704
-      end: 235421
+      start: 233911
+      end: 235628
   2624a7c9f05e418c918891da143c6816:
     imgnum: 1804
     reference: ''
     span:
-      start: 235423
-      end: 236431
+      start: 235630
+      end: 236638
 local_ids:
   673451bba8764bb58182e0d6e1a4d05b: 200000
   b04a84efff8d4e39b2067de88e63bd7f: 200001
