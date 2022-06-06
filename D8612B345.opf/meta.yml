@@ -6,7 +6,13 @@ imported: '2021-11-12T09:38:30+00:00'
 last_modified: '2022-05-27T09:54:37.144514+00:00'
 parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
 source_metadata:
-  base: {}
+  base:
+    c54e:
+      image_group_id: I1PD95905
+      title: སྟོང་ཉིད་བདུན་ཅུ་པའི་འགྲེལ་པ།
+      total_pages: 1913
+      order: 60
+      base_file: c54e.txt
 statistics: {}
 quality: {}
 copyright:
